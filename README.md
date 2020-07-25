@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Aurender
 - 🌱 I’m currently learning
   - Kotlin
   - AAC
