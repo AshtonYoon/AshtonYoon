@@ -7,7 +7,7 @@
   - Motion Layout
   - Testing
 
-![Ashton Yoon's github stats](https://github-readme-stats.vercel.app/api?username=ashtonyoon&show_icons=true&hide_border=true)
+![Ashton Yoon's github stats](https://github-readme-stats.vercel.app/api?username=ashtonyoon&show_icons=true&theme=great-gatsby)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshtonYoon)
 
